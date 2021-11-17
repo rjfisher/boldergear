@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Crash Pads"
+content: |
+  Bolder Gear has over a decade of industry expertise in crash pad design and safety.  They have created a lightweight, durable, and most importantly <strong>safe</strong> crash pad to handle any slips, trips, or highball falls. When climbing at the crag, ascend with the peace of mind that <strong>Bolder Gear</strong> has you covered.
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/crash-spotlight.jpg"

@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style2 orient-center content-align-center image-position-center fullscreen onload-image-fade-in onload-content-fade-in"
+title : "Bolder Gear"
+subtitle: |
+  <strong>Bolder Gear</strong> matches unrivaled quality, innovative designs, to produce rugged gear for the <strong>adventurous</strong> soul.
+content : |
+  Description of what Steve does goes here.
+button:
+  label : "See More"
+  link : "#first"
+image : "images/banner2.jpg"
+
